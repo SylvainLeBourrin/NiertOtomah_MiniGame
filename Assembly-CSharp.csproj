@@ -60,8 +60,8 @@
     <Compile Include="Assets\ShootMe.cs" />
     <Compile Include="Assets\poubell\deplacement2.cs" />
     <Compile Include="Assets\poubell\PlayerMovement2.cs" />
-    <Compile Include="Assets\poubell\PlayerControl.cs" />
     <Compile Include="Assets\Players\shoot.cs" />
+    <Compile Include="Assets\poubell\PlayerControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
