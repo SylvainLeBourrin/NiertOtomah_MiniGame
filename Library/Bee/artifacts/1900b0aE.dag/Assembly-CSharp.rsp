@@ -351,9 +351,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/PlayerControl.cs"
+"Assets/Players/Player.cs"
+"Assets/Players/shoot.cs"
+"Assets/poubell/deplacement2.cs"
+"Assets/poubell/PlayerControl.cs"
+"Assets/poubell/PlayerMovement2.cs"
 "Assets/ShootMe.cs"
-"Assets/test.cs"
 -langversion:9.0
 
 /deterministic
